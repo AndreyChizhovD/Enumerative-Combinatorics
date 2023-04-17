@@ -1,3 +1,3 @@
 # Enumerative-Combinatorics
-## [Midterm Exam](midterm-exam.pdf)
+## [Midterm Exam](https://github.com/AndreyChizhovD/Enumerative-Combinatorics/blob/main/midterm%20exam.pdf)
 ## Exam
